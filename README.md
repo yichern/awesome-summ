@@ -3,7 +3,7 @@
 A curated list of resources for Single Document Summarization.
 
 ## Contributing
-Please feel free to email Yi Chern Tan (yichern.tan@yale.edu)
+Please feel free to email Yi Chern Tan (yichern.tan *at* yale.edu)
 
 ## Table of Contents
 

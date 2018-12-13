@@ -1,6 +1,6 @@
 # Awesome Single Document Summarization
 
-A curated list of resources for Single Document Summarization.
+A curated list of resources for Single Document Summarization. The GitHub repository link is [here](https://github.com/tanyichern/awesome-summ).
 
 ## Contributing
 Please feel free to email Yi Chern Tan (yichern.tan *at* yale.edu)

@@ -7,16 +7,16 @@ Please feel free to email Yi Chern Tan (yichern.tan *at* yale.edu)
 
 ## Table of Contents
 
-- [Tutorials and Blogs](#tutorialsblogs)
+- [Tutorials and Blogs](#tutorials-and-blogs)
 - [Papers](#papers)
   - [Metrics](#metrics)
-  - [Classical Methods](#classicial)
-  - [Extractive Methods](#extractive)
-  - [Abstractive Methods](#abstractive)
-  - [Hybrid and Other Methods](#hybrid)
-- [Other Papers](#otherpapers)
-  - [Sentence Compression](#sentencecompression)
-  - [Code Summarization](#codesummarization)
+  - [Classical Methods](#classicial-methods)
+  - [Extractive Methods](#extractive-methods)
+  - [Abstractive Methods](#abstractive-methods)
+  - [Hybrid and Other Methods](#hybrid-and-other-methods)
+- [Other Papers](#other-papers)
+  - [Sentence Compression](#sentence-compression)
+  - [Code Summarization](#code-summarization)
 - [Datasets](#datasets)
 
 ## Tutorials and Blogs
